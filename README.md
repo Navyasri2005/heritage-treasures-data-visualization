@@ -29,9 +29,9 @@ This project visualizes the UNESCO World Heritage Sites (2019) dataset using Tab
 
 ## 📈 Dashboards Preview
 - **UNESCO World Heritage Site Review**
-- **Global Overview of UNESCO World Heritage Sites**
-
 ![WhatsApp Image 2025-06-27 at 20 34 24_9063457b](https://github.com/user-attachments/assets/572b9f25-840a-4d8d-913d-8f5be9714bfd)
+
+- **Global Overview of UNESCO World Heritage Sites**
 ![WhatsApp Image 2025-06-27 at 20 36 30_4b3b028a](https://github.com/user-attachments/assets/796dfc9d-747e-4614-be71-b121eac4df92)
 
 
